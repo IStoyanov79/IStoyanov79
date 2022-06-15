@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in interesting things in life.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on important things.
+- 💞️ I’m looking to collaborate on things I can improve myself.
 - 📫 Reach my by my email.
 
 <!---
